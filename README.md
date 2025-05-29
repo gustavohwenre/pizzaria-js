@@ -64,7 +64,6 @@ fundo.png            # Imagem de fundo
 
 icon.png             # Ícone da aplicação
 
-histórico            # Pasta para dados históricos (se aplicável)
 
 # Integrantes do Grupo
 Gustavo Alexandre Silva
