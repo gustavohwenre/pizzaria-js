@@ -37,7 +37,6 @@ localStorage API – Armazenamento de dados
 
 BroadcastChannel API – Sincronização entre abas
 
-Chart.js – Geração de gráficos financeiros
 
 # Estrutura dos Arquivos
 
