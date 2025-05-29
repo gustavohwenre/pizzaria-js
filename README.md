@@ -8,7 +8,6 @@ O **Pizzaria JS** é uma aplicação modular feita com HTML, CSS e JavaScript pu
 - Criação e personalização de pedidos (sabores, bebidas, tamanho, cidade);
 - Acompanhamento do status do pedido em tempo real (Recebido → Preparando → Enviado → Entregue);
 - Controle automático de estoque conforme pedidos realizados;
-- Geração de relatórios financeiros com receitas, despesas e lucros mensais;
 - Persistência de dados no navegador com `localStorage`;
 - Sincronização de dados entre abas com `BroadcastChannel`.
 
