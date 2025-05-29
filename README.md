@@ -41,19 +41,30 @@ Chart.js – Geração de gráficos financeiros
 
 # Estrutura dos Arquivos
 
-pizzaria-js/
-── index.html           # Página inicial
-── pedido.html          # Tela de criação de pedido
-── pedidos.html         # Painel administrativo de pedidos
-── estoque.html         # Controle e visualização de estoque
-── financeiro.html      # Relatórios financeiros (gráficos)
-── resumo.html          # Tela de status de pedido (cliente)
-── recuperar.html       # Recuperação de pedidos
-── script.js            # Toda a lógica e funcionamento do sistema
-── styles.css           # Estilização visual centralizada
-── fundo.png            # Imagem de fundo
-── icon.png             # Ícone da aplicação
-── histórico            # Pasta para dados históricos (se aplicável)
+pizzaria-js
+index.html           # Página inicial
+
+pedido.html          # Tela de criação de pedido
+
+pedidos.html         # Painel administrativo de pedidos
+
+estoque.html         # Controle e visualização de estoque
+
+financeiro.html      # Relatórios financeiros (gráficos)
+
+resumo.html          # Tela de status de pedido (cliente)
+
+recuperar.html       # Recuperação de pedidos
+
+script.js            # Toda a lógica e funcionamento do sistema
+
+styles.css           # Estilização visual centralizada
+
+fundo.png            # Imagem de fundo
+
+icon.png             # Ícone da aplicação
+
+histórico            # Pasta para dados históricos (se aplicável)
 
 # Integrantes do Grupo
 Gustavo Alexandre Silva
